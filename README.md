@@ -1,1 +1,3 @@
-# project
+📖 About the Project:
+We are a team of three passionate pupils dedicated to coding for social impact. This portfolio showcases our mission to make programming accessible and innovative.✨ Key FeaturesInteractive UI: A clean, modern landing page built with HTML/CSS.Visual Storytelling: Custom illustrated cartoon style to represent our team.Responsive Design: Optimized for both desktop and mobile viewing.🛠️ Technologies UsedTechnologyUse CaseHTML5 🌐Structure and ContentCSS3 🎨Styling and Layout (Flexbox)Markdown 📝Documentation⚙️ How to Run the ProjectClone the repository:Bashgit clone https://github.com/your-username/your-repo-name.git
+Open the project:Navigate to the folder and open index.html in any web browser.
